@@ -1,0 +1,12 @@
+{
+  "name": "@nimec/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal prettier config",
+  "main": "config.json",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": "nimec <nimec01@proton.me>",
+  "license": "MIT"
+}
