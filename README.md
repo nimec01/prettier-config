@@ -2,6 +2,9 @@
 
 > This is my personal [Prettier](https://prettier.io) config. Feel free to use it if you want.
 
+> [!CAUTION]
+> This project is now deprecated and should not be used anymore. If you still want prettier support go ahead and create the config manually. The content can be found [here](https://github.com/nimec01/prettier-config/blob/main/config.json).
+
 ## Installation
 
 **Install (npm)**:
